@@ -1,7 +1,7 @@
-# Assignment 01 Notes
+# Portfolio Notes
 
-This is version 1 of my personal developer portfolio.
+This version of the portfolio is intentionally built without JavaScript.
 
-COMP2132 Assignment 01 focuses on semantic HTML, CSS styling, responsive design, Flexbox and Grid layouts, and basic JavaScript DOM manipulation. The required JavaScript statement inserts my name into the page through an external script file.
+The site focuses on semantic HTML, accessible navigation, responsive CSS, Flexbox, and Grid. Navigation remains available at every screen size without relying on a scripted menu, and the page does not load external runtime dependencies.
 
-Future assignments will improve the site with more interactivity, completed project examples, and expanded portfolio features as my front-end development skills grow.
+Future versions can add completed project examples while preserving the site&apos;s accessibility, performance, and clear content structure.
